@@ -1,9 +1,9 @@
 Integrantes do projeto:
 
-1. Antônio
-2. Eduardo
-3. Jéssica
-4. Rafael
+1. Antônio Victor
+2. Eduardo Filho
+3. Jéssica Rangel
+4. Rafael Lima
 
 Perguntas: 
 
