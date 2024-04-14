@@ -1,5 +1,5 @@
 ### Análise de Dados no Futebol 
-O Big Data no futebol profissional cresce em importância com o avanço tecnológico. Apesar da vasta coleta de dados, apenas uma parte é explorada, devido à falta de investimento e expertise em análise e programação. Isso prejudica a qualidade e compreensão dos dados.
+A Análise de Dados no Futebol Profissional é uma tendência nos esportes de alto rendimento.Com isso, nosso grupo busca compreender a importância e a utilidade na análise de dados dos clubes e dos jogadores,além disso, a profissão e a evolução dos scouts é um fato histórico e relevante para abordamos essa temática.
 
 link para a apresentação:
 https://www.canva.com/design/DAGAcNvQVBw/WRjR0ihzmaZkeAnjeVTduw/view?utm_content=DAGAcNvQVBw&utm_campaign=designshare&utm_medium=link&utm_source=editor
